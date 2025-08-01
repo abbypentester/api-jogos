@@ -1,0 +1,676 @@
+{
+  "data": "01/08/2025",
+  "timestamp": "2025-08-01 09:07:17",
+  "url": "https://onefootball.com/pt-br/jogos",
+  "totalJogos": 30,
+  "seletoresUsados": {
+    "cards": "div[class*=\"MatchCard\"]",
+    "nomeTime": "[class*=\"simpleMatchCardTeam__name\"]",
+    "horario": "time",
+    "placar": ".SimpleMatchCardTeam_simpleMatchCardTeam__score__UYMc_",
+    "status": "[class*=\"status\"]",
+    "competicao": "[class*=\"SectionHeader\"]"
+  },
+  "jogos": [
+    {
+      "timeCasa": "Remo",
+      "timeVisitante": "Ferroviária SP",
+      "horario": "19:00",
+      "status": "",
+      "placarCasa": "",
+      "placarVisitante": "",
+      "competicao": "Competição não identificada",
+      "nivelCampeonato": "",
+      "metadados": {
+        "cardIndex": 0,
+        "seletoresUsados": {
+          "cards": "div[class*=\"MatchCard\"]",
+          "nomeTime": "[class*=\"simpleMatchCardTeam__name\"]",
+          "horario": "time",
+          "placar": ".SimpleMatchCardTeam_simpleMatchCardTeam__score__UYMc_",
+          "status": "[class*=\"status\"]",
+          "competicao": "[class*=\"SectionHeader\"]"
+        },
+        "textoCompleto": "Remo\nFerroviária SP\n19:00"
+      }
+    },
+    {
+      "timeCasa": "Remo",
+      "timeVisitante": "Ferroviária SP",
+      "horario": "",
+      "status": "",
+      "placarCasa": "",
+      "placarVisitante": "",
+      "competicao": "Competição não identificada",
+      "nivelCampeonato": "",
+      "metadados": {
+        "cardIndex": 1,
+        "seletoresUsados": {
+          "cards": "div[class*=\"MatchCard\"]",
+          "nomeTime": "[class*=\"simpleMatchCardTeam__name\"]",
+          "horario": "time",
+          "placar": ".SimpleMatchCardTeam_simpleMatchCardTeam__score__UYMc_",
+          "status": "[class*=\"status\"]",
+          "competicao": "[class*=\"SectionHeader\"]"
+        },
+        "textoCompleto": "Remo\nFerroviária SP"
+      }
+    },
+    {
+      "timeCasa": "Operário",
+      "timeVisitante": "Criciúma",
+      "horario": "Hoje",
+      "status": "",
+      "placarCasa": "",
+      "placarVisitante": "",
+      "competicao": "Competição não identificada",
+      "nivelCampeonato": "",
+      "metadados": {
+        "cardIndex": 7,
+        "seletoresUsados": {
+          "cards": "div[class*=\"MatchCard\"]",
+          "nomeTime": "[class*=\"simpleMatchCardTeam__name\"]",
+          "horario": "time",
+          "placar": ".SimpleMatchCardTeam_simpleMatchCardTeam__score__UYMc_",
+          "status": "[class*=\"status\"]",
+          "competicao": "[class*=\"SectionHeader\"]"
+        },
+        "textoCompleto": "Operário\nCriciúma\nHoje\n21:30"
+      }
+    },
+    {
+      "timeCasa": "Operário",
+      "timeVisitante": "Criciúma",
+      "horario": "",
+      "status": "",
+      "placarCasa": "",
+      "placarVisitante": "",
+      "competicao": "Competição não identificada",
+      "nivelCampeonato": "",
+      "metadados": {
+        "cardIndex": 8,
+        "seletoresUsados": {
+          "cards": "div[class*=\"MatchCard\"]",
+          "nomeTime": "[class*=\"simpleMatchCardTeam__name\"]",
+          "horario": "time",
+          "placar": ".SimpleMatchCardTeam_simpleMatchCardTeam__score__UYMc_",
+          "status": "[class*=\"status\"]",
+          "competicao": "[class*=\"SectionHeader\"]"
+        },
+        "textoCompleto": "Operário\nCriciúma"
+      }
+    },
+    {
+      "timeCasa": "FC Schalke 04",
+      "timeVisitante": "Hertha Berlim",
+      "horario": "15:30",
+      "status": "",
+      "placarCasa": "",
+      "placarVisitante": "",
+      "competicao": "Competição não identificada",
+      "nivelCampeonato": "",
+      "metadados": {
+        "cardIndex": 14,
+        "seletoresUsados": {
+          "cards": "div[class*=\"MatchCard\"]",
+          "nomeTime": "[class*=\"simpleMatchCardTeam__name\"]",
+          "horario": "time",
+          "placar": ".SimpleMatchCardTeam_simpleMatchCardTeam__score__UYMc_",
+          "status": "[class*=\"status\"]",
+          "competicao": "[class*=\"SectionHeader\"]"
+        },
+        "textoCompleto": "FC Schalke 04\nHertha Berlim\n15:30\nAssista"
+      }
+    },
+    {
+      "timeCasa": "FC Schalke 04",
+      "timeVisitante": "Hertha Berlim",
+      "horario": "",
+      "status": "",
+      "placarCasa": "",
+      "placarVisitante": "",
+      "competicao": "Competição não identificada",
+      "nivelCampeonato": "",
+      "metadados": {
+        "cardIndex": 15,
+        "seletoresUsados": {
+          "cards": "div[class*=\"MatchCard\"]",
+          "nomeTime": "[class*=\"simpleMatchCardTeam__name\"]",
+          "horario": "time",
+          "placar": ".SimpleMatchCardTeam_simpleMatchCardTeam__score__UYMc_",
+          "status": "[class*=\"status\"]",
+          "competicao": "[class*=\"SectionHeader\"]"
+        },
+        "textoCompleto": "FC Schalke 04\nHertha Berlim"
+      }
+    },
+    {
+      "timeCasa": "B93 Copenhaga",
+      "timeVisitante": "Hillerod Fodbold",
+      "horario": "14:00",
+      "status": "",
+      "placarCasa": "",
+      "placarVisitante": "",
+      "competicao": "Competição não identificada",
+      "nivelCampeonato": "",
+      "metadados": {
+        "cardIndex": 21,
+        "seletoresUsados": {
+          "cards": "div[class*=\"MatchCard\"]",
+          "nomeTime": "[class*=\"simpleMatchCardTeam__name\"]",
+          "horario": "time",
+          "placar": ".SimpleMatchCardTeam_simpleMatchCardTeam__score__UYMc_",
+          "status": "[class*=\"status\"]",
+          "competicao": "[class*=\"SectionHeader\"]"
+        },
+        "textoCompleto": "B93 Copenhaga\nHillerod Fodbold\n14:00"
+      }
+    },
+    {
+      "timeCasa": "B93 Copenhaga",
+      "timeVisitante": "Hillerod Fodbold",
+      "horario": "",
+      "status": "",
+      "placarCasa": "",
+      "placarVisitante": "",
+      "competicao": "Competição não identificada",
+      "nivelCampeonato": "",
+      "metadados": {
+        "cardIndex": 22,
+        "seletoresUsados": {
+          "cards": "div[class*=\"MatchCard\"]",
+          "nomeTime": "[class*=\"simpleMatchCardTeam__name\"]",
+          "horario": "time",
+          "placar": ".SimpleMatchCardTeam_simpleMatchCardTeam__score__UYMc_",
+          "status": "[class*=\"status\"]",
+          "competicao": "[class*=\"SectionHeader\"]"
+        },
+        "textoCompleto": "B93 Copenhaga\nHillerod Fodbold"
+      }
+    },
+    {
+      "timeCasa": "Aalborg BK",
+      "timeVisitante": "Hobro IK",
+      "horario": "14:00",
+      "status": "",
+      "placarCasa": "",
+      "placarVisitante": "",
+      "competicao": "Competição não identificada",
+      "nivelCampeonato": "",
+      "metadados": {
+        "cardIndex": 28,
+        "seletoresUsados": {
+          "cards": "div[class*=\"MatchCard\"]",
+          "nomeTime": "[class*=\"simpleMatchCardTeam__name\"]",
+          "horario": "time",
+          "placar": ".SimpleMatchCardTeam_simpleMatchCardTeam__score__UYMc_",
+          "status": "[class*=\"status\"]",
+          "competicao": "[class*=\"SectionHeader\"]"
+        },
+        "textoCompleto": "Aalborg BK\nHobro IK\n14:00"
+      }
+    },
+    {
+      "timeCasa": "Aalborg BK",
+      "timeVisitante": "Hobro IK",
+      "horario": "",
+      "status": "",
+      "placarCasa": "",
+      "placarVisitante": "",
+      "competicao": "Competição não identificada",
+      "nivelCampeonato": "",
+      "metadados": {
+        "cardIndex": 29,
+        "seletoresUsados": {
+          "cards": "div[class*=\"MatchCard\"]",
+          "nomeTime": "[class*=\"simpleMatchCardTeam__name\"]",
+          "horario": "time",
+          "placar": ".SimpleMatchCardTeam_simpleMatchCardTeam__score__UYMc_",
+          "status": "[class*=\"status\"]",
+          "competicao": "[class*=\"SectionHeader\"]"
+        },
+        "textoCompleto": "Aalborg BK\nHobro IK"
+      }
+    },
+    {
+      "timeCasa": "Kolding IF",
+      "timeVisitante": "HB Koege",
+      "horario": "14:00",
+      "status": "",
+      "placarCasa": "",
+      "placarVisitante": "",
+      "competicao": "Competição não identificada",
+      "nivelCampeonato": "",
+      "metadados": {
+        "cardIndex": 35,
+        "seletoresUsados": {
+          "cards": "div[class*=\"MatchCard\"]",
+          "nomeTime": "[class*=\"simpleMatchCardTeam__name\"]",
+          "horario": "time",
+          "placar": ".SimpleMatchCardTeam_simpleMatchCardTeam__score__UYMc_",
+          "status": "[class*=\"status\"]",
+          "competicao": "[class*=\"SectionHeader\"]"
+        },
+        "textoCompleto": "Kolding IF\nHB Koege\n14:00"
+      }
+    },
+    {
+      "timeCasa": "Kolding IF",
+      "timeVisitante": "HB Koege",
+      "horario": "",
+      "status": "",
+      "placarCasa": "",
+      "placarVisitante": "",
+      "competicao": "Competição não identificada",
+      "nivelCampeonato": "",
+      "metadados": {
+        "cardIndex": 36,
+        "seletoresUsados": {
+          "cards": "div[class*=\"MatchCard\"]",
+          "nomeTime": "[class*=\"simpleMatchCardTeam__name\"]",
+          "horario": "time",
+          "placar": ".SimpleMatchCardTeam_simpleMatchCardTeam__score__UYMc_",
+          "status": "[class*=\"status\"]",
+          "competicao": "[class*=\"SectionHeader\"]"
+        },
+        "textoCompleto": "Kolding IF\nHB Koege"
+      }
+    },
+    {
+      "timeCasa": "FC Radomlje",
+      "timeVisitante": "FC Domzale",
+      "horario": "12:30",
+      "status": "",
+      "placarCasa": "",
+      "placarVisitante": "",
+      "competicao": "Competição não identificada",
+      "nivelCampeonato": "",
+      "metadados": {
+        "cardIndex": 42,
+        "seletoresUsados": {
+          "cards": "div[class*=\"MatchCard\"]",
+          "nomeTime": "[class*=\"simpleMatchCardTeam__name\"]",
+          "horario": "time",
+          "placar": ".SimpleMatchCardTeam_simpleMatchCardTeam__score__UYMc_",
+          "status": "[class*=\"status\"]",
+          "competicao": "[class*=\"SectionHeader\"]"
+        },
+        "textoCompleto": "FC Radomlje\nFC Domzale\n12:30"
+      }
+    },
+    {
+      "timeCasa": "FC Radomlje",
+      "timeVisitante": "FC Domzale",
+      "horario": "",
+      "status": "",
+      "placarCasa": "",
+      "placarVisitante": "",
+      "competicao": "Competição não identificada",
+      "nivelCampeonato": "",
+      "metadados": {
+        "cardIndex": 43,
+        "seletoresUsados": {
+          "cards": "div[class*=\"MatchCard\"]",
+          "nomeTime": "[class*=\"simpleMatchCardTeam__name\"]",
+          "horario": "time",
+          "placar": ".SimpleMatchCardTeam_simpleMatchCardTeam__score__UYMc_",
+          "status": "[class*=\"status\"]",
+          "competicao": "[class*=\"SectionHeader\"]"
+        },
+        "textoCompleto": "FC Radomlje\nFC Domzale"
+      }
+    },
+    {
+      "timeCasa": "NK Lokomotiva Zagreb",
+      "timeVisitante": "Vukovar",
+      "horario": "15:00",
+      "status": "",
+      "placarCasa": "",
+      "placarVisitante": "",
+      "competicao": "Competição não identificada",
+      "nivelCampeonato": "",
+      "metadados": {
+        "cardIndex": 49,
+        "seletoresUsados": {
+          "cards": "div[class*=\"MatchCard\"]",
+          "nomeTime": "[class*=\"simpleMatchCardTeam__name\"]",
+          "horario": "time",
+          "placar": ".SimpleMatchCardTeam_simpleMatchCardTeam__score__UYMc_",
+          "status": "[class*=\"status\"]",
+          "competicao": "[class*=\"SectionHeader\"]"
+        },
+        "textoCompleto": "NK Lokomotiva Zagreb\nVukovar\n15:00"
+      }
+    },
+    {
+      "timeCasa": "NK Lokomotiva Zagreb",
+      "timeVisitante": "Vukovar",
+      "horario": "",
+      "status": "",
+      "placarCasa": "",
+      "placarVisitante": "",
+      "competicao": "Competição não identificada",
+      "nivelCampeonato": "",
+      "metadados": {
+        "cardIndex": 50,
+        "seletoresUsados": {
+          "cards": "div[class*=\"MatchCard\"]",
+          "nomeTime": "[class*=\"simpleMatchCardTeam__name\"]",
+          "horario": "time",
+          "placar": ".SimpleMatchCardTeam_simpleMatchCardTeam__score__UYMc_",
+          "status": "[class*=\"status\"]",
+          "competicao": "[class*=\"SectionHeader\"]"
+        },
+        "textoCompleto": "NK Lokomotiva Zagreb\nVukovar"
+      }
+    },
+    {
+      "timeCasa": "Wieczysta Cracóvia",
+      "timeVisitante": "Znicz Pruszkow",
+      "horario": "13:00",
+      "status": "",
+      "placarCasa": "",
+      "placarVisitante": "",
+      "competicao": "Competição não identificada",
+      "nivelCampeonato": "",
+      "metadados": {
+        "cardIndex": 56,
+        "seletoresUsados": {
+          "cards": "div[class*=\"MatchCard\"]",
+          "nomeTime": "[class*=\"simpleMatchCardTeam__name\"]",
+          "horario": "time",
+          "placar": ".SimpleMatchCardTeam_simpleMatchCardTeam__score__UYMc_",
+          "status": "[class*=\"status\"]",
+          "competicao": "[class*=\"SectionHeader\"]"
+        },
+        "textoCompleto": "Wieczysta Cracóvia\nZnicz Pruszkow\n13:00"
+      }
+    },
+    {
+      "timeCasa": "Wieczysta Cracóvia",
+      "timeVisitante": "Znicz Pruszkow",
+      "horario": "",
+      "status": "",
+      "placarCasa": "",
+      "placarVisitante": "",
+      "competicao": "Competição não identificada",
+      "nivelCampeonato": "",
+      "metadados": {
+        "cardIndex": 57,
+        "seletoresUsados": {
+          "cards": "div[class*=\"MatchCard\"]",
+          "nomeTime": "[class*=\"simpleMatchCardTeam__name\"]",
+          "horario": "time",
+          "placar": ".SimpleMatchCardTeam_simpleMatchCardTeam__score__UYMc_",
+          "status": "[class*=\"status\"]",
+          "competicao": "[class*=\"SectionHeader\"]"
+        },
+        "textoCompleto": "Wieczysta Cracóvia\nZnicz Pruszkow"
+      }
+    },
+    {
+      "timeCasa": "LKS Lodz",
+      "timeVisitante": "KS Polónia Bytom",
+      "horario": "15:30",
+      "status": "",
+      "placarCasa": "",
+      "placarVisitante": "",
+      "competicao": "Competição não identificada",
+      "nivelCampeonato": "",
+      "metadados": {
+        "cardIndex": 63,
+        "seletoresUsados": {
+          "cards": "div[class*=\"MatchCard\"]",
+          "nomeTime": "[class*=\"simpleMatchCardTeam__name\"]",
+          "horario": "time",
+          "placar": ".SimpleMatchCardTeam_simpleMatchCardTeam__score__UYMc_",
+          "status": "[class*=\"status\"]",
+          "competicao": "[class*=\"SectionHeader\"]"
+        },
+        "textoCompleto": "LKS Lodz\nKS Polónia Bytom\n15:30"
+      }
+    },
+    {
+      "timeCasa": "LKS Lodz",
+      "timeVisitante": "KS Polónia Bytom",
+      "horario": "",
+      "status": "",
+      "placarCasa": "",
+      "placarVisitante": "",
+      "competicao": "Competição não identificada",
+      "nivelCampeonato": "",
+      "metadados": {
+        "cardIndex": 64,
+        "seletoresUsados": {
+          "cards": "div[class*=\"MatchCard\"]",
+          "nomeTime": "[class*=\"simpleMatchCardTeam__name\"]",
+          "horario": "time",
+          "placar": ".SimpleMatchCardTeam_simpleMatchCardTeam__score__UYMc_",
+          "status": "[class*=\"status\"]",
+          "competicao": "[class*=\"SectionHeader\"]"
+        },
+        "textoCompleto": "LKS Lodz\nKS Polónia Bytom"
+      }
+    },
+    {
+      "timeCasa": "FC Liefering",
+      "timeVisitante": "Austria Lustenau",
+      "horario": "13:00",
+      "status": "",
+      "placarCasa": "",
+      "placarVisitante": "",
+      "competicao": "Competição não identificada",
+      "nivelCampeonato": "",
+      "metadados": {
+        "cardIndex": 70,
+        "seletoresUsados": {
+          "cards": "div[class*=\"MatchCard\"]",
+          "nomeTime": "[class*=\"simpleMatchCardTeam__name\"]",
+          "horario": "time",
+          "placar": ".SimpleMatchCardTeam_simpleMatchCardTeam__score__UYMc_",
+          "status": "[class*=\"status\"]",
+          "competicao": "[class*=\"SectionHeader\"]"
+        },
+        "textoCompleto": "FC Liefering\nAustria Lustenau\n13:00"
+      }
+    },
+    {
+      "timeCasa": "FC Liefering",
+      "timeVisitante": "Austria Lustenau",
+      "horario": "",
+      "status": "",
+      "placarCasa": "",
+      "placarVisitante": "",
+      "competicao": "Competição não identificada",
+      "nivelCampeonato": "",
+      "metadados": {
+        "cardIndex": 71,
+        "seletoresUsados": {
+          "cards": "div[class*=\"MatchCard\"]",
+          "nomeTime": "[class*=\"simpleMatchCardTeam__name\"]",
+          "horario": "time",
+          "placar": ".SimpleMatchCardTeam_simpleMatchCardTeam__score__UYMc_",
+          "status": "[class*=\"status\"]",
+          "competicao": "[class*=\"SectionHeader\"]"
+        },
+        "textoCompleto": "FC Liefering\nAustria Lustenau"
+      }
+    },
+    {
+      "timeCasa": "Kapfenberger SV 1919",
+      "timeVisitante": "Admira Wacker",
+      "horario": "13:00",
+      "status": "",
+      "placarCasa": "",
+      "placarVisitante": "",
+      "competicao": "Competição não identificada",
+      "nivelCampeonato": "",
+      "metadados": {
+        "cardIndex": 77,
+        "seletoresUsados": {
+          "cards": "div[class*=\"MatchCard\"]",
+          "nomeTime": "[class*=\"simpleMatchCardTeam__name\"]",
+          "horario": "time",
+          "placar": ".SimpleMatchCardTeam_simpleMatchCardTeam__score__UYMc_",
+          "status": "[class*=\"status\"]",
+          "competicao": "[class*=\"SectionHeader\"]"
+        },
+        "textoCompleto": "Kapfenberger SV 1919\nAdmira Wacker\n13:00"
+      }
+    },
+    {
+      "timeCasa": "Kapfenberger SV 1919",
+      "timeVisitante": "Admira Wacker",
+      "horario": "",
+      "status": "",
+      "placarCasa": "",
+      "placarVisitante": "",
+      "competicao": "Competição não identificada",
+      "nivelCampeonato": "",
+      "metadados": {
+        "cardIndex": 78,
+        "seletoresUsados": {
+          "cards": "div[class*=\"MatchCard\"]",
+          "nomeTime": "[class*=\"simpleMatchCardTeam__name\"]",
+          "horario": "time",
+          "placar": ".SimpleMatchCardTeam_simpleMatchCardTeam__score__UYMc_",
+          "status": "[class*=\"status\"]",
+          "competicao": "[class*=\"SectionHeader\"]"
+        },
+        "textoCompleto": "Kapfenberger SV 1919\nAdmira Wacker"
+      }
+    },
+    {
+      "timeCasa": "SV Stripfing",
+      "timeVisitante": "First Vienna FC",
+      "horario": "13:00",
+      "status": "",
+      "placarCasa": "",
+      "placarVisitante": "",
+      "competicao": "Competição não identificada",
+      "nivelCampeonato": "",
+      "metadados": {
+        "cardIndex": 84,
+        "seletoresUsados": {
+          "cards": "div[class*=\"MatchCard\"]",
+          "nomeTime": "[class*=\"simpleMatchCardTeam__name\"]",
+          "horario": "time",
+          "placar": ".SimpleMatchCardTeam_simpleMatchCardTeam__score__UYMc_",
+          "status": "[class*=\"status\"]",
+          "competicao": "[class*=\"SectionHeader\"]"
+        },
+        "textoCompleto": "SV Stripfing\nFirst Vienna FC\n13:00"
+      }
+    },
+    {
+      "timeCasa": "SV Stripfing",
+      "timeVisitante": "First Vienna FC",
+      "horario": "",
+      "status": "",
+      "placarCasa": "",
+      "placarVisitante": "",
+      "competicao": "Competição não identificada",
+      "nivelCampeonato": "",
+      "metadados": {
+        "cardIndex": 85,
+        "seletoresUsados": {
+          "cards": "div[class*=\"MatchCard\"]",
+          "nomeTime": "[class*=\"simpleMatchCardTeam__name\"]",
+          "horario": "time",
+          "placar": ".SimpleMatchCardTeam_simpleMatchCardTeam__score__UYMc_",
+          "status": "[class*=\"status\"]",
+          "competicao": "[class*=\"SectionHeader\"]"
+        },
+        "textoCompleto": "SV Stripfing\nFirst Vienna FC"
+      }
+    },
+    {
+      "timeCasa": "SKU Amstetten",
+      "timeVisitante": "SK Sturm Graz II",
+      "horario": "13:00",
+      "status": "",
+      "placarCasa": "",
+      "placarVisitante": "",
+      "competicao": "Competição não identificada",
+      "nivelCampeonato": "",
+      "metadados": {
+        "cardIndex": 91,
+        "seletoresUsados": {
+          "cards": "div[class*=\"MatchCard\"]",
+          "nomeTime": "[class*=\"simpleMatchCardTeam__name\"]",
+          "horario": "time",
+          "placar": ".SimpleMatchCardTeam_simpleMatchCardTeam__score__UYMc_",
+          "status": "[class*=\"status\"]",
+          "competicao": "[class*=\"SectionHeader\"]"
+        },
+        "textoCompleto": "SKU Amstetten\nSK Sturm Graz II\n13:00"
+      }
+    },
+    {
+      "timeCasa": "SKU Amstetten",
+      "timeVisitante": "SK Sturm Graz II",
+      "horario": "",
+      "status": "",
+      "placarCasa": "",
+      "placarVisitante": "",
+      "competicao": "Competição não identificada",
+      "nivelCampeonato": "",
+      "metadados": {
+        "cardIndex": 92,
+        "seletoresUsados": {
+          "cards": "div[class*=\"MatchCard\"]",
+          "nomeTime": "[class*=\"simpleMatchCardTeam__name\"]",
+          "horario": "time",
+          "placar": ".SimpleMatchCardTeam_simpleMatchCardTeam__score__UYMc_",
+          "status": "[class*=\"status\"]",
+          "competicao": "[class*=\"SectionHeader\"]"
+        },
+        "textoCompleto": "SKU Amstetten\nSK Sturm Graz II"
+      }
+    },
+    {
+      "timeCasa": "Austria Salzburg",
+      "timeVisitante": "SK Austria Klagenfurt",
+      "horario": "13:00",
+      "status": "",
+      "placarCasa": "",
+      "placarVisitante": "",
+      "competicao": "Competição não identificada",
+      "nivelCampeonato": "",
+      "metadados": {
+        "cardIndex": 98,
+        "seletoresUsados": {
+          "cards": "div[class*=\"MatchCard\"]",
+          "nomeTime": "[class*=\"simpleMatchCardTeam__name\"]",
+          "horario": "time",
+          "placar": ".SimpleMatchCardTeam_simpleMatchCardTeam__score__UYMc_",
+          "status": "[class*=\"status\"]",
+          "competicao": "[class*=\"SectionHeader\"]"
+        },
+        "textoCompleto": "Austria Salzburg\nSK Austria Klagenfurt\n13:00"
+      }
+    },
+    {
+      "timeCasa": "Austria Salzburg",
+      "timeVisitante": "SK Austria Klagenfurt",
+      "horario": "",
+      "status": "",
+      "placarCasa": "",
+      "placarVisitante": "",
+      "competicao": "Competição não identificada",
+      "nivelCampeonato": "",
+      "metadados": {
+        "cardIndex": 99,
+        "seletoresUsados": {
+          "cards": "div[class*=\"MatchCard\"]",
+          "nomeTime": "[class*=\"simpleMatchCardTeam__name\"]",
+          "horario": "time",
+          "placar": ".SimpleMatchCardTeam_simpleMatchCardTeam__score__UYMc_",
+          "status": "[class*=\"status\"]",
+          "competicao": "[class*=\"SectionHeader\"]"
+        },
+        "textoCompleto": "Austria Salzburg\nSK Austria Klagenfurt"
+      }
+    }
+  ]
+}

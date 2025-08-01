@@ -579,12 +579,19 @@ async function scrapingAdaptativo(url = 'https://onefootball.com/pt-br/jogos') {
     
     // Salvar resultados
     const resultado = {
+      data: moment().format('DD/MM/YYYY'),
       timestamp: moment().format('YYYY-MM-DD HH:mm:ss'),
       url,
       totalJogos: jogos.length,
       seletoresUsados: seletorAdaptativo.seletoresFuncionais,
       jogos
     };
+    
+    // Salvar os dados dos jogos em arquivo JSON
+    const nomeArquivoJogos = `jogos_${moment().format('YYYY-MM-DD')}.json`;
+    const fs = require('fs');
+    fs.writeFileSync(nomeArquivoJogos, JSON.stringify(resultado, null, 2));
+    console.log(`📁 Dados dos jogos salvos em: ${nomeArquivoJogos}`);
     
     // Salvar histórico
     seletorAdaptativo.salvarHistorico();

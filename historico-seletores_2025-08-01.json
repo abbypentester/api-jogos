@@ -1,0 +1,150 @@
+{
+  "ultimaAtualizacao": "2025-08-01 09:10:02",
+  "seletoresFuncionais": {
+    "cards": "div[class*=\"MatchCard\"]",
+    "nomeTime": "[class*=\"simpleMatchCardTeam__name\"]",
+    "horario": "time",
+    "placar": ".SimpleMatchCardTeam_simpleMatchCardTeam__score__UYMc_",
+    "status": "[class*=\"status\"]",
+    "competicao": "[class*=\"SectionHeader\"]"
+  },
+  "padroes": {
+    "cards": [
+      "ul.grid.MatchCardsList_matches__8_UwB > li",
+      "ul[class*=\"MatchCardsList\"] > li",
+      "li[class*=\"MatchCard\"]",
+      "div[class*=\"MatchCard\"]",
+      "article[class*=\"SimpleMatchCard\"]",
+      "[data-testid=\"match-card\"]",
+      "li[class*=\"match\"]",
+      "div[class*=\"match\"]",
+      "article[class*=\"match\"]",
+      ".match-card",
+      ".game-card",
+      "[class*=\"card\"][class*=\"match\"]",
+      "li:has([class*=\"team\"])",
+      "div:has([class*=\"team\"])",
+      "article:has([class*=\"team\"])"
+    ],
+    "nomeTime": [
+      ".SimpleMatchCardTeam_simpleMatchCardTeam__name__7Ud8D",
+      "[class*=\"simpleMatchCardTeam__name\"]",
+      "[class*=\"TeamName\"]",
+      "[class*=\"team__name\"]",
+      "[class*=\"matchCardTeam__name\"]",
+      "[class*=\"team-name\"]",
+      "[class*=\"teamName\"]",
+      "[class*=\"club-name\"]",
+      "[class*=\"clubName\"]",
+      ".team-name",
+      ".club-name",
+      "[data-testid*=\"team\"]",
+      "[data-testid*=\"club\"]",
+      "span[class*=\"name\"]",
+      "div[class*=\"name\"]",
+      "p[class*=\"name\"]"
+    ],
+    "horario": [
+      ".SimpleMatchCard_simpleMatchCard__infoMessage___NJqW.title-8-bold",
+      "time",
+      "[class*=\"infoMessage\"]",
+      "[class*=\"matchTime\"]",
+      "[class*=\"gameTime\"]",
+      "[class*=\"match-time\"]",
+      "[class*=\"game-time\"]",
+      "[datetime]",
+      "[class*=\"time\"]",
+      "[class*=\"hour\"]",
+      "[class*=\"schedule\"]",
+      ".time",
+      ".hour",
+      ".schedule"
+    ],
+    "placar": [
+      ".SimpleMatchCardTeam_simpleMatchCardTeam__score__UYMc_",
+      "[class*=\"score\"]",
+      "[class*=\"placar\"]",
+      "[class*=\"result\"]",
+      "[class*=\"goals\"]",
+      "[class*=\"points\"]",
+      ".score",
+      ".placar",
+      ".result",
+      ".goals",
+      "[data-testid*=\"score\"]"
+    ],
+    "status": [
+      ".ot-label-status",
+      "[class*=\"status\"]",
+      "[class*=\"state\"]",
+      "[class*=\"live\"]",
+      "[class*=\"finished\"]",
+      "[class*=\"upcoming\"]",
+      ".status",
+      ".state",
+      ".live",
+      "[data-testid*=\"status\"]"
+    ],
+    "competicao": [
+      "[class*=\"title-6-bold\"][class*=\"leftAlign\"]",
+      "[class*=\"SectionHeader\"]",
+      "[class*=\"competition\"]",
+      "[class*=\"league\"]",
+      "[class*=\"tournament\"]",
+      "h2[class*=\"title\"]",
+      "h3[class*=\"title\"]",
+      "h4[class*=\"title\"]",
+      ".competition",
+      ".league",
+      ".tournament",
+      "[data-testid*=\"competition\"]",
+      "[data-testid*=\"league\"]"
+    ]
+  },
+  "historico": [
+    {
+      "timestamp": "2025-08-01 09:03:41",
+      "seletores": {
+        "cards": "div[class*=\"MatchCard\"]",
+        "nomeTime": "[class*=\"simpleMatchCardTeam__name\"]",
+        "horario": "time",
+        "placar": ".SimpleMatchCardTeam_simpleMatchCardTeam__score__UYMc_",
+        "status": "[class*=\"status\"]",
+        "competicao": "[class*=\"SectionHeader\"]"
+      }
+    },
+    {
+      "timestamp": "2025-08-01 09:05:55",
+      "seletores": {
+        "cards": "div[class*=\"MatchCard\"]",
+        "nomeTime": "[class*=\"simpleMatchCardTeam__name\"]",
+        "horario": "time",
+        "placar": ".SimpleMatchCardTeam_simpleMatchCardTeam__score__UYMc_",
+        "status": "[class*=\"status\"]",
+        "competicao": "[class*=\"SectionHeader\"]"
+      }
+    },
+    {
+      "timestamp": "2025-08-01 09:07:17",
+      "seletores": {
+        "cards": "div[class*=\"MatchCard\"]",
+        "nomeTime": "[class*=\"simpleMatchCardTeam__name\"]",
+        "horario": "time",
+        "placar": ".SimpleMatchCardTeam_simpleMatchCardTeam__score__UYMc_",
+        "status": "[class*=\"status\"]",
+        "competicao": "[class*=\"SectionHeader\"]"
+      }
+    },
+    {
+      "timestamp": "2025-08-01 09:10:02",
+      "seletores": {
+        "cards": "div[class*=\"MatchCard\"]",
+        "nomeTime": "[class*=\"simpleMatchCardTeam__name\"]",
+        "horario": "time",
+        "placar": ".SimpleMatchCardTeam_simpleMatchCardTeam__score__UYMc_",
+        "status": "[class*=\"status\"]",
+        "competicao": "[class*=\"SectionHeader\"]"
+      }
+    }
+  ]
+}
