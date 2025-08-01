@@ -1,0 +1,154 @@
+[
+  {
+    "indice": 0,
+    "timeCasa": "Gramadense",
+    "timeVisitante": "Novo Hamburgo",
+    "horario": "15:00",
+    "status": "",
+    "placarCasa": "",
+    "placarVisitante": "",
+    "textoCompleto": "Gramadense\nNovo Hamburgo\n15:00",
+    "linhas": [
+      "Gramadense",
+      "Novo Hamburgo",
+      "15:00"
+    ]
+  },
+  {
+    "indice": 1,
+    "timeCasa": "Bagé",
+    "timeVisitante": "Inter SM",
+    "horario": "19:00",
+    "status": "",
+    "placarCasa": "",
+    "placarVisitante": "",
+    "textoCompleto": "Bagé\nInter SM\n19:00",
+    "linhas": [
+      "Bagé",
+      "Inter SM",
+      "19:00"
+    ]
+  },
+  {
+    "indice": 2,
+    "timeCasa": "CSA",
+    "timeVisitante": "Vasco da Gama",
+    "horario": "19:00",
+    "status": "",
+    "placarCasa": "",
+    "placarVisitante": "",
+    "textoCompleto": "CSA\nVasco da Gama\n19:00",
+    "linhas": [
+      "CSA",
+      "Vasco da Gama",
+      "19:00"
+    ]
+  },
+  {
+    "indice": 3,
+    "timeCasa": "Bahia",
+    "timeVisitante": "Retro FC PE",
+    "horario": "19:30",
+    "status": "",
+    "placarCasa": "",
+    "placarVisitante": "",
+    "textoCompleto": "Bahia\nRetro FC PE\n19:30",
+    "linhas": [
+      "Bahia",
+      "Retro FC PE",
+      "19:30"
+    ]
+  },
+  {
+    "indice": 4,
+    "timeCasa": "Cruzeiro",
+    "timeVisitante": "CRB",
+    "horario": "19:30",
+    "status": "",
+    "placarCasa": "",
+    "placarVisitante": "",
+    "textoCompleto": "Cruzeiro\nCRB\n19:30",
+    "linhas": [
+      "Cruzeiro",
+      "CRB",
+      "19:30"
+    ]
+  },
+  {
+    "indice": 5,
+    "timeCasa": "Corinthians",
+    "timeVisitante": "Palmeiras",
+    "horario": "Hoje",
+    "status": "",
+    "placarCasa": "",
+    "placarVisitante": "",
+    "textoCompleto": "Corinthians\nPalmeiras\nHoje\n21:30",
+    "linhas": [
+      "Corinthians",
+      "Palmeiras",
+      "Hoje",
+      "21:30"
+    ]
+  },
+  {
+    "indice": 6,
+    "timeCasa": "Internacional",
+    "timeVisitante": "Fluminense",
+    "horario": "Hoje",
+    "status": "",
+    "placarCasa": "",
+    "placarVisitante": "",
+    "textoCompleto": "Internacional\nFluminense\nHoje\n21:30",
+    "linhas": [
+      "Internacional",
+      "Fluminense",
+      "Hoje",
+      "21:30"
+    ]
+  },
+  {
+    "indice": 7,
+    "timeCasa": "Qarabag FK",
+    "timeVisitante": "Shelbourne FC",
+    "horario": "13:00",
+    "status": "",
+    "placarCasa": "",
+    "placarVisitante": "",
+    "textoCompleto": "Qarabag FK\nShelbourne FC\n13:00",
+    "linhas": [
+      "Qarabag FK",
+      "Shelbourne FC",
+      "13:00"
+    ]
+  },
+  {
+    "indice": 8,
+    "timeCasa": "Malmo FF",
+    "timeVisitante": "Rigas FS",
+    "horario": "14:00",
+    "status": "",
+    "placarCasa": "",
+    "placarVisitante": "",
+    "textoCompleto": "Malmo FF\nRigas FS\n14:00",
+    "linhas": [
+      "Malmo FF",
+      "Rigas FS",
+      "14:00"
+    ]
+  },
+  {
+    "indice": 9,
+    "timeCasa": "Ludogorets Razgrad",
+    "timeVisitante": "HNK Rijeka",
+    "horario": "14:30",
+    "status": "",
+    "placarCasa": "",
+    "placarVisitante": "",
+    "textoCompleto": "Ludogorets Razgrad\nHNK Rijeka\n14:30",
+    "linhas": [
+      "Ludogorets Razgrad",
+      "HNK Rijeka",
+      "14:30"
+    ]
+  }
+]

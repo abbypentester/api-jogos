@@ -1,0 +1,38 @@
+{
+  "name": "api-jogos-deploy",
+  "version": "1.0.0",
+  "description": "API de Jogos para deploy em serviços de hospedagem gratuitos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "test": "curl http://localhost:3000/api/status"
+  },
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "node-cron": "^4.2.1",
+    "puppeteer": "^21.0.0"
+  },
+  "puppeteer": {
+    "skipDownload": true
+  },
+  "keywords": [
+    "api",
+    "jogos",
+    "futebol",
+    "express",
+    "nodejs"
+  ],
+  "author": "Usuario",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/usuario/api-jogos.git"
+  },
+  "homepage": "https://github.com/usuario/api-jogos#readme"
+}
